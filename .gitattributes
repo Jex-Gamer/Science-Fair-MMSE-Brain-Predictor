@@ -33,3 +33,4 @@
 *.xlsx binary
 
 *.m linguist-language=MATLAB
+*.prj linguist-language=MATLAB
